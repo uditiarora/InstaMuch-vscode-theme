@@ -1,23 +1,21 @@
 {
-	"name": "halcyon-vscode",
+	"name": "instamuch-vscode",
 	"displayName": "InstaMuch Theme",
-	"description": "A dark blue theme for VS Code based on the Ayu Mirage theme",
-	"version": "0.2.12",
-	"publisher": "brittanychiang",
-	"icon": "images/logo.png",
+	"description": "A dark theme inspired from Instagram logo colors.",
+	"version": "1.0.0",
+	"publisher": "uditiarora",
 	"author": {
-		"name": "Brittany Chiang",
-		"email": "brittany.chiang@gmail.com"
+		"name": "Uditi Arora",
+		"email": "uditiarora@gmail.com"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/bchiang7/halcyon-vscode"
+		"url": "https://github.com/uditiarora/InstaMuch-vscode-theme"
 	},
 	"bugs": {
-		"url": "https://github.com/bchiang7/halcyon-vscode/issues",
-		"email": "brittany.chiang@gmail.com"
+		"url": "https://github.com/uditiarora/InstaMuch-vscode-theme/issues",
+		"email": "uditiarora@gmail.com"
 	},
-	"homepage": "https://github.com/bchiang7/halcyon-vscode/blob/master/README.md",
 	"galleryBanner": {
 		"color": "#330033",
 		"theme": "dark"
@@ -39,7 +37,7 @@
 			{
 				"label": "InstaMuch",
 				"uiTheme": "vs-dark",
-				"path": "./themes/halcyon-color-theme.json"
+				"path": "./themes/instamuch-color-theme.json"
 			}
 		]
 	},
@@ -51,10 +49,5 @@
 		"eslint-config-prettier": "^6.2.0",
 		"prettier": "^1.18.2",
 		"vsce": "^1.66.0"
-	},
-	"__metadata": {
-		"id": "da302e39-e7df-4ef8-8ddd-73eb422fb70b",
-		"publisherDisplayName": "brittanychiang",
-		"publisherId": "c25e50fb-d96f-4c60-b941-ca7f1abd821d"
 	}
 }
