@@ -1,5 +1,5 @@
 # InstaMuch 
-It is a vs code theme inspired by colors in the Instagram logo(shades of purple, pink, orange and peach).
+It is a VS code theme inspired by colors in the Instagram logo(shades of purple, pink, orange and peach).
 
 ## Manual Installation
 
