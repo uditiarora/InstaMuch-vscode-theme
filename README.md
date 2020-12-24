@@ -1,5 +1,15 @@
 # InstaMuch 
-It is a VS code theme inspired by colors in the Instagram logo(shades of purple, pink, orange and peach).
+It is a VS code theme inspired by colors in the Instagram logo (shades of purple, pink, orange and peach).
+
+### Edit: InstaMuch is now available as an extension on VSCode. You can get it too! Just follow the steps below.
+
+## Installation via VS Code
+
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `InstaMuch Theme`
+3. Click **Install** to install it
+4. Click **Reload** to reload the editor
+5. Code > Preferences > Color Theme > **InstaMuch Theme**
 
 ## Manual Installation
 
