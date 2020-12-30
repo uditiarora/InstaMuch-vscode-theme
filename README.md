@@ -9,7 +9,7 @@ It is a VS code theme inspired by colors in the Instagram logo (shades of purple
 2. Search for `InstaMuch Theme`
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
-5. Code > Preferences > Color Theme > **InstaMuch Theme**
+5. `Code > Preferences > Color Theme > **InstaMuch Theme**`
 
 ## Manual Installation
 
